@@ -1,5 +1,4 @@
 # BONUS: CSS Kitten Wheelbarrow
-
 ## Learning Goals
 
 - Position elements absolutely
